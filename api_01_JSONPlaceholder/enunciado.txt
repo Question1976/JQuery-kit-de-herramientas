@@ -1,0 +1,7 @@
+Ejemplo 1: Consumir datos de la API de "JSONPlaceholder" y mostrarlos en una lista
+
+¿Qué estás aprendiendo aquí?:
+Uso de jQuery: Aprenderás a usar $().ready, eventos (click), y métodos como .get(), .empty(), y .append().s
+Consumo de API: Cómo consumir datos de una API REST utilizando $.get.
+Manipulación del DOM: Añadir y modificar contenido dinámicamente en HTML.
+Estilizado básico: Cómo mejorar la presentación visual de los datos con CSS.
