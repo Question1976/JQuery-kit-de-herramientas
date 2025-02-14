@@ -1,6 +1,6 @@
 JQuery
 
-Siempre es buno conocer tecnologías aunque no estén de moda, pero cuidado, muchos proyectos tanto antiguos como nuevos usan esta tecnología.
+Siempre es bueno conocer tecnologías aunque no estén de moda, porque muchos proyectos tanto antiguos como nuevos usan esta tecnología.
 Con 10 pequeños proyectos ideales para aprender a consumir APIs y renderizar en el navegador el resultado, con un poco de HTML5 y CSS3.
 
 Las APIs usadas son:
